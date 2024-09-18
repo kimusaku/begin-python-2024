@@ -3,7 +3,7 @@
 
 title: "プログラミング実習講義3,4"
 author: 木村 功作 Kosaku Kimura
-copyright: "2023"
+copyright: "2024"
 
 exclude_patterns: [_build, .DS_Store, "**.ipynb_checkpoints", "README.md"]
 
